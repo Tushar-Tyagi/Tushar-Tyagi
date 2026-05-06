@@ -144,13 +144,8 @@ tushar = {
 ## `> git log --graph`
 
 <div align="center">
-
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tushar-Tyagi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true)](https://github.com/Tushar-Tyagi)
  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Tyagi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8)](https://github.com/Tushar-Tyagi)
- 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushar-Tyagi&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&hide_border=true)](https://github.com/Tushar-Tyagi)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tushar-Tyagi&theme=terafox&border_radius=40&mode=weekly&fire=EB5454)](https://git.io/streak-stats)
 
 </div>
 
